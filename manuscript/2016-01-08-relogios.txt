@@ -1,0 +1,19 @@
+# Relógios, carros e teste de software
+
+Recentemente comprei um relógio de pulso. Usar um relógio analógico em 2016 é basicamente uma decisão de estética e não de funcionalidade pois estamos rodeados de relógios digitais, como por exemplo, no painel do meu carro.
+
+O interessante é que o relógio do meu carro vive atrasando, enquanto que o relógio de pulso nunca apresentou esse problema, apesar do relógio ter custado muito menos do que o veículo. O ponto é que para o relógio a funcionalidade "mostrar as horas" é a coisa mais importante, enquanto que para o carro isso é um extra. Os engenheiros do relógio devem ter realizados inúmeros testes para garantir que ele não atrase, seja de dia, de noite, no braço direito, no braço esquerdo, no Brasil ou no Equador. Já os engenheiros da Ford devem ter testado milhares de vezes todo o sistema de freios, aceleração, air bags, enquanto que o relógio no painel deve ter recebido bem menos atenção.
+
+Mas apesar de todo o orçamento que a montadora deve ter investido em testes focados nas funcionalidades principais do carro problemas podem acontecer. Alguns meses atrás precisei levar o carro na concessionária para realizar a troca das fechaduras das portas, que a Ford descobriu que podem abrir com o carro em movimento! Isso deve ter causado um prejuízo enorme em peças, mão de obra, imagem da marca, etc. E algum engenheiro de testes deve ter sofrido bastante...
+
+Outro caso recente foi o chamado ["dieselgate"](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal). A montadora Volkswagen foi acusada de mascarar resultados de emissão de poluentes em seus carros, principalmente na europa. Isso é um caso ainda em andamento mas as primeiras conclusões são de que o software embutido nos carros estava mostrando valores diferentes da realidade. Acredito que muitos testes devem ter sido realizados neste software mas aparentemente eles mascaravam o resultado. A empresa está tendo prejuízos enormes, principalmente devido a perda da confiança dos usuários pela marca.
+
+Então, da próxima vez que for implantar testes no seu software tente pensar nisso:
+
+- funcionalidades similares podem ter prioridades diferentes em seus projetos. Os testes relativos a "mostrar as horas" no produto "Relógio de pulso" devem ser muito mais exaustivos do que no "Ford Fiesta", por exemplo.
+
+- não importa o quanto de tempo e dinheiro você possua para investir no projeto e seus testes as coisas podem dar errado, como no caso das portas do meu carro.
+
+- e sempre leve em consideração que algum dos testes pode estar mascarando a realidade, seja por má fé de alguma pessoa, um mock mal escrito, ou um teste que leva em conta apenas o "caminho feliz". 
+
+Testes são fundamentais nos projetos de software por isso é sempre importante darmos a devida atenção a eles. 
