@@ -1,7 +1,6 @@
 2010-10-14-como-ser-um-bom-profissional-de-ti.txt
 2011-04-14-como-melhorar-sua-carreira.txt
 2012-05-03-crie-sua-marca-pessoal.txt
-2012-08-31-como-voce-organiza-seu-dia.txt
 2013-01-07-desenvolvedores-e-portfolios.txt
 2013-07-26-em-que-voce-acredita.txt
 2013-07-31-programador-dave-grohl-e-nao-axl-rose.txt
@@ -10,7 +9,6 @@
 2014-02-10-a-paciencia-ou-a-demencia.txt
 2014-04-25-conheca-o-seu-dia.txt
 2014-09-09-falta-de-foco-o-mal-de-uma-geracao.txt
-2014-09-17-se-as-empresas-fossem-bandas-de-rock.txt
 2014-11-26-multitasking-so-e-bom-no-seu-computador.txt
 2016-01-05-como-ler-mais.txt
 2016-01-08-relogios.txt
@@ -23,5 +21,6 @@
 2018-07-30-sobre-criar-filhos-liderar-pessoas.txt
 2018-08-21-dicas-produtividade.txt
 2018-09-06-windows-linux-mac.txt
+2019-02-11-a-paternidade.txt
 2019-02-09-full-stack-vs-full-cycle.txt
 2019-03-30-como-evoluir-na-carreira-dev.txt
