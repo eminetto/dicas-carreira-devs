@@ -4,8 +4,6 @@ Recentemente a [Coderockr](http://coderockr.com) conquistou alguns clientes no f
 
 Confesso que no começo achei que iria ser bem chato anotar as minhas atividades e anotar quantas horas estou trabalhando em cada projeto. Mas já no segundo dia eu me apaixonei pelo processo e isso se tornou um vício.  Além do objetivo principal, que era ter um relatório de horas a apresentar aos clientes, eu percebi que ganhei duas coisas importantes.
 
-<!--more-->
-
 ## Como estou usando o meu dia?
 
 Criei o hábito de iniciar o timer do aplicativo a cada tarefa que eu faço, desde as que trabalho por horas até coisas simples como atender uma ligação telefônica, responder e-mails, revisar um pull request, etc. Assim eu consigo ter uma visão bem detalhada de como estou usando o meu dia, que tarefas mais consomem meu tempo, quais tarefas eu posso delegar, quais estão gerando melhor retorno para a minha carreira, etc. 

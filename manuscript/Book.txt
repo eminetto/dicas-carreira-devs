@@ -1,3 +1,4 @@
+intro.txt
 2010-10-14-como-ser-um-bom-profissional-de-ti.txt
 2011-04-14-como-melhorar-sua-carreira.txt
 2012-05-03-crie-sua-marca-pessoal.txt
@@ -11,14 +12,12 @@
 2014-09-09-falta-de-foco-o-mal-de-uma-geracao.txt
 2014-11-26-multitasking-so-e-bom-no-seu-computador.txt
 2016-01-05-como-ler-mais.txt
-2016-01-08-relogios.txt
 2016-02-15-esqueca-o-instant-do-instant-messaging.txt
 2016-02-26-por-que-ir-a-eventos.txt
 2016-05-29-tres-licoes-que-o-ac-slash-dc-pode-dar-para-sua-carreira.txt
 2016-06-30-quer-melhorar-como-palestrante-faca-como-o-metallica.txt
 2017-03-31-dicas-curriculo.txt
 2018-01-30-cinco-licoes-carreira-programador.txt
-2018-07-30-sobre-criar-filhos-liderar-pessoas.txt
 2018-08-21-dicas-produtividade.txt
 2018-09-06-windows-linux-mac.txt
 2019-02-11-a-paternidade.txt

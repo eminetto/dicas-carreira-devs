@@ -1,9 +1,4 @@
-+++
-title = "A paternidade me tornou um profissional melhor"
-subtitle = ""
-date = "2019-02-11T10:54:24+02:00"
-bigimg = ""
-+++
+# A paternidade me tornou um profissional melhor
 
 Resolvi escrever este post depois de receber uma pergunta interessante no Twitter:
 
