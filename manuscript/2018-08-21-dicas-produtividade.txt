@@ -1,18 +1,18 @@
 # Minhas dicas de produtividade
 
-Alguns dias atrás um amigo me mandou essa DM no Twitter:
+Algum tempo atrás um amigo me mandou essa DM no Twitter:
 
 [![dm](/images/dm_produtividade.png)](/images/dm_produtividade.png) 
 
-Sinceramente, não acho que eu faça algo de especial, mas achei interessante escrever este post como um incentivo para que outras pessoas compartilhem suas dicas de produtividade.
+Sinceramente, não acho que eu faça algo de especial, mas achei interessante escrever este texto como um incentivo para que outras pessoas compartilhem suas dicas de produtividade.
 
 Eu posso resumir o que eu faço em três tópicos: listas, anotações e rotina. O que isso significa?
 
-## Listas
+**Listas**
 
 Com o passar dos anos aprendi que meu cérebro não é nada bom em controlar diversas coisas ao mesmo tempo. Se eu não me controlar sou facilmente distraído e perco o foco do que preciso fazer. Para evitar isso eu anoto tudo o que precisa ser feito em listas de tarefas, o mais rápido possível. 
 
-Eu testei diversas técnicas como a [Matriz de Eisenhower](https://eltonminetto.net/2014/08/05/gerenciando-tarefas-com-o-trello-e-a-matriz-de-eisenhower/), [Bullet Journal](https://eltonminetto.net/post/2017-03-03-gerenciando-tarefas-bujo/) e até usar a [linha de comando](https://eltonminetto.net/post/2018-04-12-gerenciando-tarefas-linha-comando/) para gerenciar minhas tarefas. Mas percebi que eu passava muito tempo trocando de ferramentas (Trello, Wunderlist, Noteplan, 2Do, etc) e para resolver isso elenquei as funcionalidades mais importantes (estar sempre acessível, ter lembretes sonoros, divisão por projetos) e acabei adotando o próprio Reminders da Apple. Assim que eu pensar em uma tarefa a ser feita eu anoto via celular, computador ou até falando com a Siri (útil quando você está dirigindo e percebe que esqueceu de comprar areia para o gato...).
+Existem diversas técnicas como a [Matriz de Eisenhower](https://eltonminetto.net/2014/08/05/gerenciando-tarefas-com-o-trello-e-a-matriz-de-eisenhower/), [Bullet Journal](https://eltonminetto.net/post/2017-03-03-gerenciando-tarefas-bujo/) e até usar a [linha de comando](https://eltonminetto.net/post/2018-04-12-gerenciando-tarefas-linha-comando/) para gerenciar minhas tarefas. Mas percebi que eu passava muito tempo trocando de ferramentas (Trello, Wunderlist, Noteplan, 2Do, etc) e para resolver isso elenquei as funcionalidades mais importantes (estar sempre acessível, ter lembretes sonoros, divisão por projetos) e acabei adotando o próprio Reminders da Apple. Assim que eu pensar em uma tarefa a ser feita eu anoto via celular, computador ou até falando com a Siri (útil quando você está dirigindo e percebe que esqueceu de comprar areia para o gato...).
 
 [![reminders](/images/reminders.png)](/images/reminders.png) 
 

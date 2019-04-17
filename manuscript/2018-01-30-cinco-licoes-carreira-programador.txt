@@ -1,6 +1,6 @@
-# Cinco lições que aprendi sobre a carreira de programador
+# Cinco lições que aprendi sobre a carreira de desenvolvedor - REVISADO
 
-Eu realmente acredito que *"o desenvolvimento de software é uma arte que deve ser feita com paixão e dedicação"*. Por isso quero aqui usar algumas analogias com minhas formas favoritas de arte, a música e o cinema, para citar algumas lições que aprendi nos meus 20 anos de profissão.
+Eu realmente acredito que *"o desenvolvimento de software é uma arte que deve ser feita com paixão e dedicação"*. Por isso quero aqui usar algumas analogias com minhas formas favoritas de arte, a música e o cinema, para citar algumas lições que aprendi nos meus mais de 20 anos de profissão.
 
 Apesar de não estarem na minha lista de bandas favoritas é inegável a importância e o impacto que os Beatles tiveram na música e na cultura pop. Mas mesmo os autores de grandes clássicos as vezes criam algo como [Ob-La-Di, Ob-La-Da](https://www.letras.mus.br/the-beatles/168/), que foi eleita uma das [piores letras já escritas](http://news.bbc.co.uk/2/hi/entertainment/3998301.stm). Por isso **não se preocupe se nem todos os seus códigos são dignos de orgulho, principalmente no começo da carreira**. O importante é continuar praticando até compor seu [Helter Skelter](https://www.letras.mus.br/the-beatles/304/)
 
@@ -10,6 +10,6 @@ Sou grande fã do Quentin Tarantino e consumidor de todas as suas obras. Ele com
 
 George Clooney fez o pior Batman da história do cinema. Ele mesmo [pediu desculpas por isso em uma entrevista](https://www.youtube.com/watch?v=AXzcSCf3kwg) onde comentou que achava que o filme seria ótimo para sua carreira, mas foi um desastre. Algumas vezes nosso código não é tão elegante, ou tão eficaz quando poderia, ou possui bugs. **Um desenvolvedor não é julgado apenas por um ou outro deslize, mas pela capacidade de aprender com seus erros, melhorar e continuar crescendo na sua carreira.** Da mesma forma que o George Clooney conseguiu superar o Batman e continua fazendo sucesso.
 
-Para a última lição eu poderia citar várias obras que foram criticadas duramente, mas que seus autores continuaram seu caminho. Isso é algo que vai acontecer constantemente na carreira de um desenvolvedor. **Seu código vai ser criticado, seu Pull Request não vai ser aceito, sua sugestão de arquitetura não vai ser implementada, etc. Questione, entenda os motivos, aprenda e não guarde mágoa. É seu código que está sendo criticado e não você. Um programador é muito mais do que um código e sim uma carreira toda de entregas e soluções.**
+Para a última lição eu poderia citar várias obras que foram criticadas duramente, mas que seus autores continuaram seu caminho. Isso é algo que vai acontecer constantemente na carreira de um desenvolvedor. **Seu código vai ser criticado, seu Pull Request não vai ser aceito, sua sugestão de arquitetura não vai ser implementada, etc. Questione, entenda os motivos, aprenda e não guarde mágoa. É seu código que está sendo criticado e não você. Um desenvolvedor é muito mais do que um código e sim uma carreira toda de entregas e soluções.**
 
 E você? Que lições tem para compartilhar?

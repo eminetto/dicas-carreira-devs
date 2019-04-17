@@ -1,6 +1,6 @@
-# Programador Dave Grohl e não Axl Rose
+# Programador Dave Grohl e não Axl Rose - REVISADO
 
-O lema da [Coderockr](http://coderockr.com) é "Programadores são artistas, são Rockstars!". Esse termo "programador rockstar" vem sendo usado por algumas pessoas como pejorativo, como algo a ser evitado. 
+Como comentei no capítulo anterior, acredito que programadores podem ser comparados a artistas, mais especificamente a "rockstars". Esse termo "programador rockstar" vem sendo usado por algumas pessoas como pejorativo, como algo a ser evitado. 
 
 O CEO da [Netguru](https://netguru.co) fez uma ótima apresentação com o título "[Why no one is looking for ‘rockstar programmers’](http://blog.netguru.co/post/56860239654/no-one-is-looking-for-rockstar-programmers
 )".
@@ -17,7 +17,7 @@ Traduzi/adaptei os trechos mais importantes:
 
 - **Seja incansavelmente engenhoso**. Torne-se a pessoa que consegue resolver qualquer problema. Você não precisa ser capaz de resolver qualquer problema sozinho, mas você sempre sabe onde ir para encontrar a resposta.
 
-Concordo com todos os pontos que o Wiktor cita na apresentação, só não acho certo dizer que que não tem essas qualidades é um "rockstar". Pelo menos não no modo como vejo, com os rockstars criando coisas novas e sendo ousados, quebrando o _status quo_.
+Concordo com todos os pontos que o Wiktor cita na apresentação, só não acho certo dizer que quem não tem essas qualidades é um "rockstar". Pelo menos não no modo como vejo, com os rockstars criando coisas novas e sendo ousados, quebrando o _status quo_.
 
 Eu mudaria os termos para: "**não seja um programador Axl Rose, seja um programador Dave Grohl**". 
 

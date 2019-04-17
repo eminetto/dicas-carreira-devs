@@ -7,12 +7,8 @@ intro.txt
 2013-07-31-programador-dave-grohl-e-nao-axl-rose.txt
 2013-09-01-carreira.txt
 2013-09-18-voce-esta-se-enganando.txt
-2014-02-10-a-paciencia-ou-a-demencia.txt
 2014-04-25-conheca-o-seu-dia.txt
 2014-09-09-falta-de-foco-o-mal-de-uma-geracao.txt
-2014-11-26-multitasking-so-e-bom-no-seu-computador.txt
-2016-01-05-como-ler-mais.txt
-2016-02-15-esqueca-o-instant-do-instant-messaging.txt
 2016-02-26-por-que-ir-a-eventos.txt
 2016-05-29-tres-licoes-que-o-ac-slash-dc-pode-dar-para-sua-carreira.txt
 2016-06-30-quer-melhorar-como-palestrante-faca-como-o-metallica.txt
