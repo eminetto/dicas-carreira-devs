@@ -1,4 +1,4 @@
-# Windows, Linux ou Mac. O que é melhor para desenvolvedores?
+# Windows, Linux ou Mac. O que é melhor para desenvolvedores? - REVISADO
 
 A menos que você desenvolva aplicativos exclusivamente para alguma plataforma já deve ter ouvido esta discussão entre as comunidades que participa.
 
@@ -10,7 +10,7 @@ Em um texto que escrevi anos atrás eu falei sobre [as leis vikings](https://elt
 
 Se você optou por usar Windows, ou qualquer outra ferramenta, esforce-se para deixar sua "arma" pronta para ser usada da melhor forma. Aprenda o máximo que puder sobre como ela funciona, quais os pontos fortes, fracos, como adaptá-la para seu uso diário. 
 
-Quando desenvolvemos a plataforma de desafios da [Code:Nation](https://www.codenation.com.br) uma das decisões que precisávamos tomar era se forneceríamos ou não uma IDE web para que os desenvolvedores pudessem escrever seus códigos. Optamos pelo caminho mais "difícil", pelo menos para nós, que foi o de convencer os desenvolvedores a investirem um tempo aprendendo como criarem o seu ambiente local, configurarem e aprimorarem suas ferramentas. Isso nos trouxe mais trabalho de suporte, amenizado pela própria comunidade se ajudando no [forum](https://forum.codenation.com.br), mas os resultados tem aparecido, com desenvolvedores criando e configurando suas máquinas para resolver os desafios. 
+Quando desenvolvemos a plataforma de desafios da [Codenation](https://www.codenation.dev) uma das decisões que precisávamos tomar era se forneceríamos ou não uma IDE web para que os desenvolvedores pudessem escrever seus códigos. Optamos pelo caminho mais "difícil", pelo menos para nós, que foi o de convencer os desenvolvedores a investirem um tempo aprendendo como criarem o seu ambiente local, configurarem e aprimorarem suas ferramentas. Isso nos trouxe mais trabalho de suporte, amenizado pela própria comunidade se ajudando no [forum](https://forum.codenation.com.br), mas os resultados tem aparecido, com desenvolvedores criando e configurando suas máquinas para resolver os desafios. 
 
 Quando eu comecei a minha carreira de desenvolvedor eu criava aplicativos para a plataforma Windows. Quando comecei a desenvolver para a web aproveitei a oportunidade para aprender Linux e, depois de alguns anos, MacOS. Em todas as fases eu me esforcei para aprender o máximo possível do ambiente e customizá-lo de forma que eu fosse o mais produtivo possível. 
 

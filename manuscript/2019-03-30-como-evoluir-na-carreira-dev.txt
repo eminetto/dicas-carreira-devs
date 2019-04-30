@@ -1,11 +1,10 @@
-# Como evoluir na carreira de dev?
+# Como evoluir na carreira de dev? - REVISADO
 
-Algumas semanas atrás meu sócio da [Codenation](https://codenation.dev) me fez uma pergunta interessante: 
+Algum tempo atrás meu sócio da [Codenation](https://codenation.dev) me fez uma pergunta interessante: 
 
 > "Se dinheiro não fosse uma limitação, o que você faria para evoluir na carreira de dev?"
 
 Para responder essa pergunta/provocação eu precisei parar um pouco e pensar o que eu acredito ser necessário para evoluir na carreira de desenvolvedor(a) de software.
-
 
 Na minha opinião, são dois fatores que fazem esta evolução: educação e experiência.
 

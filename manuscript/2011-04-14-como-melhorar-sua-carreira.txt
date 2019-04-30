@@ -64,7 +64,7 @@ O autor do post baseou-se em um livro chamado Passionate Programer, escrito pelo
 
 > Quanto mais sucesso você tem, mais fácil de cometer esse erro fatal. Nunca sinta-se muito confortável, especialmente sabendo que o que você sabe hoje pode tornar-se obsoleto amanhã. Nesse setor você nunca pode realmente se dar ao luxo disso.De acordo com o livro, a melhor coisa que pode-se fazer é tornar-se um "generalista". Nunca confie demais em uma tecnologia ou empresa. Algumas habilidades que você domina, mesmo seu trabalho todo, podem tornar-se obsoletas amanhã. Sempre procure formas de melhorar/expandir suas habilidades.
 
-*Não concordo 100% com a parte do "generalista", mas isso é assunto para o capítulo **Full Stack vs Full Cycle Developer** *
+*Não concordo 100% com a parte do "generalista", mas isso é assunto para o capítulo Full Stack vs Full Cycle Developer*
 
 **Venda-se**
 
