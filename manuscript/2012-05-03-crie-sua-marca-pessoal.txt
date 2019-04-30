@@ -1,4 +1,4 @@
-# Crie sua marca pessoal - REVISADO
+# Crie sua marca pessoal
 
 Recentemente encontrei um [post](http://www.codinghorror.com/blog/2006/04/your-personal-brand.html) que havia lido anos atrás e achei interessante comentá-lo aqui, pois ele continua relevante. O autor fala brevemente da importância de termos uma "*personal brand"* e cita algumas dicas úteis para nós que trabalhamos na área de TI. São elas (em tradução livre e com meus comentários):
 

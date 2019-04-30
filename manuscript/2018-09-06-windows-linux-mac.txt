@@ -1,4 +1,4 @@
-# Windows, Linux ou Mac. O que é melhor para desenvolvedores? - REVISADO
+# Windows, Linux ou Mac. O que é melhor para desenvolvedores?
 
 A menos que você desenvolva aplicativos exclusivamente para alguma plataforma já deve ter ouvido esta discussão entre as comunidades que participa.
 

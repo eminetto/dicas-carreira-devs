@@ -1,6 +1,6 @@
-# Full Stack vs Full Cycle developer - REVISADO
+# Full Stack vs Full Cycle developer
 
-## Full Stack developer
+**Full Stack developer**
 
 Nos últimos anos o termo *full stack developer* ganhou destaque na descrição de vagas de emprego, especialmente em startups. Segundo [este post](https://hackernoon.com/6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead), um *full stack developer* é (tradução minha):
 
@@ -13,7 +13,7 @@ Se isso é complicado para uma pessoa que é desenvolvedora há vários anos, im
 
 Antes de continuar minha opinião, vamos ver o que é *full cycle developer* 
 
-## Full Cycle Developer
+**Full Cycle Developer**
 
 O termo ganhou destaque em um [post do blog de tecnologia do Netflix](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249), em meados de 2018.
 
