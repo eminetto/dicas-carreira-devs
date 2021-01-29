@@ -19,3 +19,6 @@ intro.txt
 2019-02-11-a-paternidade.txt
 2019-02-09-full-stack-vs-full-cycle.txt
 2019-03-30-como-evoluir-na-carreira-dev.txt
+2019-11-23-porque-usar-o-twitter.txt
+2020-07-23-o-que-e-great-place-to-work-para-voce.txt
+2020-12-18-dicas-desafio-tecnico.txt
