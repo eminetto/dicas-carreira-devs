@@ -22,3 +22,7 @@ intro.txt
 2019-11-23-porque-usar-o-twitter.txt
 2020-07-23-o-que-e-great-place-to-work-para-voce.txt
 2020-12-18-dicas-desafio-tecnico.txt
+2022-02-21-acompanhamentoxautonomia.txt
+2021-06-02-carreira-y.txt
+2022-04-14-brag-document.txt
+2022-06-14-how-to-decide-what-to-study.txt
