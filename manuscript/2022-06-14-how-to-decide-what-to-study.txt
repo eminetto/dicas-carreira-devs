@@ -32,4 +32,4 @@ Outro ponto importante é revisar este gráfico conforme você evolui na sua car
 
 Espero que esta técnica seja útil para você, assim como tem sido importante para mim. 
 
-P.S.: aceito sugestões de nomes para este diagrama 🙂
+P.S.: aceito sugestões de nomes para este diagrama :)
