@@ -4,7 +4,7 @@ Provavelmente você conhece a fábula da pessoa que era desenvolvedora sênior  
 
 Felizmente isso tem mudado, graças a famosa carreira em Y. 
 
-## Um pouco de história
+**Um pouco de história**
 
 Para ilustrar vou contar a minha história...
 
@@ -19,11 +19,11 @@ Nesse tempo todo em que eu passei liderando equipes, eu sempre atuei como líder
 E eu tomei a decisão de não seguir o caminho da gestão e sim voltar para o caminho de "*contribuinte individual*". Eu cheguei a essa decisão usando de algumas "ferramentas":
 
 - **Mentorias**. Procurei pessoas que seguiram os dois caminhos, entrei em contato e pedi se elas poderiam dedicar alguns minutos do seu tempo para me contarem como tomaram a decisão, como foi o processo, o que gostam e não gostam da área, etc. Graças a anos de dedicação em networking, consegui conversar com pessoas incríveis, tanto de empresas pequenas quanto gigantes como Netflix, Google e Digital Ocean. 
-- **Leituras**. Li muitos posts e livros sobre o assunto. Dois que eu posso recomendar são: [Business model you: o modelo de negócios pessoal](https://www.amazon.com.br/Business-Model-You-Tim-Clark/dp/8576087790/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=VQUNAGOF7BFA&dchild=1&keywords=business+model+you&qid=1625225035&sprefix=businness+model+you%2Caps%2C302&sr=8-1) e [Staff Engineer: Leadership beyond the management track](https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook/dp/B08RMSHYGG/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=39Y2BFTRBV0BU&dchild=1&keywords=staff+engineer+leadership+beyond+the+management+track&qid=1625225055&sprefix=staff+engineers%2Caps%2C315&sr=8-1). O primeiro me ajudou a analisar minha carreira e entender o que eu mais gosto de fazer e onde eu posso gerar mais impacto. O segundo é sobre pessoas que seguiram o caminho de contribuidores individuais e continuam atuando como líderes e mentores técnicos.
+- **Leituras**. Li muitos posts e livros sobre o assunto. Dois que eu posso recomendar são: [Business model you: o modelo de negócios pessoal](https://www.amazon.com.br/dp/8576087790/ref=cm_sw_r_tw_dp_2FQXCQ3GTE043V012M10) e [Staff Engineer: Leadership beyond the management track](https://www.amazon.com.br/dp/B08RMSHYGG/ref=cm_sw_r_tw_dp_WKX9P3JNTEV9503Z17HG). O primeiro me ajudou a analisar minha carreira e entender o que eu mais gosto de fazer e onde eu posso gerar mais impacto. O segundo é sobre pessoas que seguiram o caminho de contribuidores individuais e continuam atuando como líderes e mentores técnicos.
 - **Conversas com minha liderança**. Uma das coisas legais em trabalhar na Trybe é a preocupação que as lideranças tem com a carreira das pessoas. Conversei bastante com o João Daniel, CTO da Trybe, sobre os meus planos e como a empresa poderia me ajudar a atingi-los, bem como os impactos que eu poderia gerar em cada passo do caminho.
 
-E em Maio de 2022 eu fiz a transição para este "novo" caminho de carreira ao me tornar Principal Software Engineer no [PicPay](https://picpay.com) onde eu continuo liderando pessoas desenvolvedoras, resolvendo problemas técnicos cada vez mais complexos, mentorando e ajudando outras pessoas a evoluirem suas carreiras. 
+E em Maio de 2022 eu fiz a transição para este "novo" caminho de carreira ao me tornar Principal Software Engineer no [PicPay](https://picpay.com) onde eu continuo liderando pessoas desenvolvedoras, resolvendo problemas técnicos cada vez mais complexos, mentorando e ajudando outras pessoas a evoluirem em suas carreiras. 
 
-Além desta transição eu comecei um novo projeto pessoal. Trata-se da newsletter [Mais que Senior](https://maisquesenior.dev) onde entrevisto pessoas que seguiram a carreira técnica ao invés da de gestão. É inspirador saber suas trajetórias e aprendizados. Convido todos a lerem as entrevistas e assinarem a newsletter para receberem as próximas edições.
+Além desta transição eu comecei um novo projeto pessoal. Trata-se da newsletter [Mais que Senior](https://maisquesenior.dev) onde entrevisto pessoas que seguiram a carreira técnica ao invés da gestão. É inspirador conhecer suas trajetórias e aprendizados. O convido a ler as entrevistas e assinar a newsletter para receber as próximas edições.
 
 A "moral da história" que podemos tirar desse meu caso é que não existe um caminho só a ser seguido e sempre é possível fazer transições entre as vertentes. Sempre observe como você se sente, qual é o cenário ao seu redor e como você pode se adaptar para potencializar sua carreira.

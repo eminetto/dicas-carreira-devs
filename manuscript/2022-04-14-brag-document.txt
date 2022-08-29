@@ -1,4 +1,4 @@
-# Crie um brag document"
+# Crie um brag document
 
 Se você está no mercado de trabalho provavelmente já passou por um cenário parecido com os seguintes:
 
@@ -12,7 +12,7 @@ Em ambos os casos é um momento onde você precisa exercitar sua capacidade de n
 
 Nestes momentos o melhor argumento é você poder mostrar uma lista de contribuições que você fez, afinal sua liderança pode não lembrar de todos os detalhes pois você não é a única pessoa liderada por ela. É aqui que brilha o conceito do "brag document", que em tradução livre seria o seu "documento para contar vantagem" :) 
 
-Essa ideia ficou famosa a partir de [um post da Julia Evans](https://jvns.ca/blog/brag-documents/) e foi citado em outros lugares, como no livro [Staff Engineer: Leadership beyond the management track](https://www.amazon.com.br/Staff-Engineer-Leadership-management-English-ebook/dp/B08RMSHYGG/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&crid=39Y2BFTRBV0BU&dchild=1&keywords=staff+engineer+leadership+beyond+the+management+track&qid=1625225055&sprefix=staff+engineers%2Caps%2C315&sr=8-1).
+Essa ideia ficou famosa a partir de [um post da Julia Evans](https://jvns.ca/blog/brag-documents/) e foi citado em outros lugares, como no livro [Staff Engineer: Leadership beyond the management track](https://www.amazon.com.br/dp/B08RMSHYGG/ref=cm_sw_r_tw_dp_WKX9P3JNTEV9503Z17HG).
 
 Apesar do termo parecer estranho não é nada muito complexo, apenas um documento que você atualiza constantemente com todas as coisas que você fez e que tem orgulho, ou que geraram valor para sua equipe/empresa. E quando você for passar pelo processo de pedir uma promoção você pode levar esta lista para ajudar a sua liderança a concordar com você. 
 

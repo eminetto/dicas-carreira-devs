@@ -1,4 +1,4 @@
-# Como decidir o que estudar?"
+# Como decidir o que estudar?
 
 Frequentemente converso sobre carreira com colegas de profissão, tanto pessoas iniciantes quanto mais experientes e uma pergunta que aparece bastante é: 
 
@@ -6,7 +6,7 @@ Frequentemente converso sobre carreira com colegas de profissão, tanto pessoas 
 
 Para tentar responder essa dúvida eu imaginei um processo, um "framework" talvez?
 
-O primeiro passo é exercitar seus dons artísticos (coisa que eu obviamente não tenho) e criar uma série de círculos, com você no centro:
+O primeiro passo é exercitar seus dons artísticos (coisa que eu obviamente no tenho) e criar uma série de círculos, com você no centro:
 
 [![Três círculos vazios sobrepostos com um emoji de pessoa pensando no centro](/images/c1.png)](/images/c1.png)
 
