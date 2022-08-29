@@ -18,7 +18,9 @@ Apesar do termo parecer estranho não é nada muito complexo, apenas um document
 
 Eu comecei a fazer isso recentemente e estou gostando do resultado. O que eu fiz foi criar um documento no Notion e um evento recorrente no meu Google Calendar para que toda sexta-feira eu revise tudo o que fiz na semana e atualize o documento, caso tenha feito algo relevante. 
 
-![](/images/brag-documents.png)
+![](images/brag-documents.png)
+
+![](brag-documents.png)
 
 Outra vantagem é que o fato de revisar minhas entregas e anotar as mais relevantes também tem me ajudado a comemorar as vitórias do dia a dia. Isso ajuda muito a não cair na armadilha da síndrome do impostor. 
 
