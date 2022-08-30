@@ -2,7 +2,7 @@
 
 Algum tempo atrás um amigo me mandou essa DM no Twitter:
 
-[![dm](/images/dm_produtividade.png)](/images/dm_produtividade.png) 
+![](images/dm_produtividade.png)
 
 Sinceramente, não acho que eu faça algo de especial, mas achei interessante escrever este texto como um incentivo para que outras pessoas compartilhem suas dicas de produtividade.
 

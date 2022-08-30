@@ -2,7 +2,7 @@
 
 Resolvi escrever este post depois de receber uma pergunta interessante no Twitter:
 
-[![paternidade](/images/paternidade.png)](/images/paternidade.png) 
+![](images/paternidade.png)
 
 Durante toda minha vida adulta a minha carreira sempre foi o ponto focal. Nas decisões que tomei no decorrer dos anos o que era melhor para minha carreira sempre teve um peso muito grande.
 
