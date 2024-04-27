@@ -35,7 +35,6 @@ Se tem uma coisa que eu aprendi com o passar dos anos é que o cérebro humano �
 
 Eu sugiro que você crie um registro dos seus aprendizados. Meu [site pessoal](https://eltonminetto.dev) surgiu para esse fim, e venho fazendo isso nos últimos 20 anos. Mas você não precisa fazer isso em público, pode anotar em um documento de texto, em um Google Docs ou Notion. O importante é que seja algo fácil de você encontrar quando precisar. Eu tenho várias anotações armazenadas, de coisas que uso no dia a dia:
 
-![](images/notes_productivity_1.png)
 ![](images/notes_productivity_2.png)
 
 Aliás, para adicionar estas imagens no texto eu procurei na minha anotação como fazer, pois não lembrava qual era o diretório correto para salvá-las ;)
