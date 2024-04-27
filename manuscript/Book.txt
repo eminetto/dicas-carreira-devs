@@ -26,3 +26,12 @@ intro.txt
 2021-06-02-carreira-y.txt
 2022-04-14-brag-document.txt
 2022-06-14-how-to-decide-what-to-study.txt
+2022-07-19-doc-first.txt
+2022-11-25-dicas-livros-complexidade.txt
+2022-12-10-aqueles-que-mantem-o-mundo-girando.txt
+2023-01-18-programacao-pessimista.txt
+2023-01-25-developer-productivity-fun-profit-p1.txt
+2023-02-08-responsabilidade-disciplina.txt
+2023-05-24-dev-prod-dev-platform.txt
+2023-05-27-como-organizo-minha-semana.txt
+2023-06-13-por-que-escrever.txt

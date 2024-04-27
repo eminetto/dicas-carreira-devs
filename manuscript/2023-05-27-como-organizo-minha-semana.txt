@@ -1,0 +1,22 @@
+# Como organizo minha semana
+
+Em Maio/2024 completei meu segundo ano trabalhando como Principal Software Engineer. [Neste post](https://maisquesenior.substack.com/p/elton-minetto) eu comentei sobre o que eu faço, inclusive como eu organizo minha agenda mas gostaria de detalhar um pouco mais este assunto.
+
+Posições “staff+”, como Principal, tem algumas características interessantes:
+
+- eu estou alocado em uma área, que é formada por alguns times. Desta forma, eu “navego” entre os contextos dos times e vejo como eles se integram nos objetivos da área e da empresa;
+- tenho bastante autonomia para organizar as minhas prioridades e tarefas. Mas como dizia o sábio Tio Ben: “com grandes poderes vem grandes responsabilidades”;
+- sou envolvido em várias discussões técnicas durante a semana, bem como dou apoio em alguns incidentes que podem acontecer;
+- tenho um papel importante de mentoria dentro dos times.
+
+Diferentes papéis e contextos, somado com autonomia pode ser a receita para algumas coisas não muito saudáveis como sobrecarga, burnout e perda de foco no que é importante. Para evitar isso eu tenho feito algumas coisas:
+
+- toda segunda-feira eu faço uma lista das prioridades da semana. Aponto quais são as tarefas, áreas e times que eu pretendo dar foco nos próximos dias. Compartilho essa lista com meus pares, outros Principal da área, e minha liderança. Eles dão feedbacks e apontam prioridades que eu possa ter deixado de fora, complementam com sugestões e ideias e se oferecem para ajudar em algo. Alguns colegas também compartilham a sua lista e eu faço a mesma revisão;
+- ainda na segunda eu tenho uma reunião com as lideranças da área para alinharmos as prioridades de todos. Posso fazer algum ajuste na minha lista de prioridades caso necessário;
+- a última tarefa da segunda é criar bloqueios na minha agenda da semana para dar foco em alguns itens da minha lista de prioridades. Assim eu consigo dar atenção ao que é importante e também comunico para meus colegas dos times os momentos que eu não posso participar de alguma reunião ou mentoria. Claro que urgências aparecem e preciso reorganizar a agenda algumas vezes, mas no geral funciona muito bem. Eu tomo cuidado de não bloquear minha agenda toda, nem mesmo bloquear um dia inteiro para uma tarefa. Prefiro dividir algo grande em blocos de uma ou duas horas, deixando espaços na agenda para que eu esteja disponível para os times me envolverem em discussões técnicas, revisão de código, pair programming e mentorias;
+
+![](images/agenda_principal.jpg)
+
+- na sexta-feira, a última tarefa da semana é atualizar o meu brag document. Com isso eu consigo anotar as minhas entregas e revisar o que eu tinha planejado x o que eu realizei. Isso tem me ajudado muito, conforme descrevi em um capítulo deste livro.
+
+Compartilhei estas dicas na expectativa de serem úteis para outros profissionais, mesmo os que não atuam como Staff ou Principal.

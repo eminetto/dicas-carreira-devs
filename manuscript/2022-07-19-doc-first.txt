@@ -1,0 +1,36 @@
+# Documente primeiro
+
+É um consenso na comunidade de desenvolvimento de software que documentação é algo muito importante. Mas ao mesmo tempo não é uma das tarefas mais glamurosas, especialmente se comparado com a escrita de códigos. Então é natural que uma ideia nos venha à mente:
+
+> e se eu gerar a documentação a partir do código fonte??
+
+Eu já usei essa abordagem em alguns projetos, inclusive [escrevi um post](https://eltonminetto.dev/2016/06/01/gerando-documentacao-de-apis/) sobre isso alguns anos atrás.
+
+Mas nos últimos anos eu adotei uma abordagem um pouco diferente, que eu chamo de "documentation first". Vou ilustrar com um exemplo.
+
+Imagine uma equipe formada por uma pessoa desenvolvedora backend e outra frontend. Para esta equipe é dada a tarefa:
+
+> Desenvolver o formulário de cadastro de produtos
+
+No momento do refinamento eu sempre sugiro que a equipe quebre essa demanda em sub-tarefas, como:
+
+- Definir o contrato da API
+- Desenvolver a API
+- Desenvolver o formulário
+- etc, etc
+
+Para o contexto deste texto, apenas a primeira tarefa é importante. Nela a equipe trabalha em par com o objetivo de definir o contrato da API e ambos discutem formato de dados, se a API vai ser Rest ou RPC, autenticação, compressão de dados, e outros assuntos importantes. A entrega desta tarefa é a documentação, preferencialmente em um padrão como [OpenAPI](https://spec.openapis.org/oas/latest.html) ou [API Blueprint](https://eltonminetto.dev/post/2017-06-29-definindo-apis-com-api-blueprint/) (meu formato preferido).
+
+Com esta tarefa finalizada o trabalho pode ser novamente paralelizado. O desenvolvimento do backend vai focar em entregar a API que foi definida, enquanto que o frontend vai implementar o formulário sabendo o que vai enviar e receber do backend. Se a documentação for feita em um dos padrões de mercado citados acima é possível também gerar mocks e stubs, facilitando o desenvolvimento e os testes.
+
+Claro que durante o desenvolvimento podem ser encontradas algumas arestas que não foram pensadas durante a primeira tarefa. Quando isso acontece basta um novo trabalho rápido em par para ajustar a documentação e o trabalho segue como o esperado.
+
+Com esta abordagem encontrei algumas vantagens como:
+
+- a equipe dedica mais tempo para pensar nos cenários em que a API vai ser aplicada, gerando maior entendimento antes de qualquer linha de código ser escrita;
+- acontece um maior entrosamento entre os membros da equipe;
+- a documentação mantém-se atualizada e viva.
+
+Eu citei aqui um exemplo do desenvolvimento de uma API, mas a mesma abordagem pode ser aplicada em outros cenários, especialmente onde temos integração entre partes do sistema, como em um ambiente de microsserviços.
+
+Como comentei anteriormente, venho usando essa abordagem nos últimos anos e o resultado tem sido bem proveitoso.
